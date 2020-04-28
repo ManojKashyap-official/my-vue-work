@@ -3,7 +3,7 @@
     <div>
       
      <h1> hello my name is Manoj Kashyap</h1>
-     <nuxt-link to="users">Goto the user page</nuxt-link>
+     <nuxt-link to="/users">Goto the user page</nuxt-link>
     </div>
   </div>
 </template>
